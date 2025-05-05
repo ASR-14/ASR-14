@@ -63,8 +63,3 @@ I'm a passionate Mobile Developer with expertise in Flutter and cross-platform d
 
 ## ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
-
----
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=ASR-14&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
-</div>
