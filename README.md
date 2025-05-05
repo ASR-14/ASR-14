@@ -45,15 +45,6 @@ I'm a passionate Mobile Developer with expertise in Flutter and cross-platform d
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/KRDE09)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/khoa-ph%E1%BA%A1m-90ab2b322/)
 
-## 📝 Latest Blog Posts
-<!-- BLOG-POST-LIST:START -->
-- [Coming soon...]
-<!-- BLOG-POST-LIST:END -->
-
-## 🎯 Currently Learning
-- Advanced Flutter Architecture
-- Machine Learning with TensorFlow
-- Cloud Computing
 
 ## 🏆 GitHub Trophies
 [![trophy](https://github-profile-trophy.vercel.app/?username=ASR-14&theme=onedark&no-frame=true&no-bg=true)](https://github.com/ryo-ma/github-profile-trophy)
